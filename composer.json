@@ -1,0 +1,19 @@
+{
+    "name": "avallac/breezart",
+    "description": "API for control and monitoring ventilation Breezart",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Avallac\\Breezart\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Petr Petrenko",
+            "email": "mail@avallac.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    }
+}
